@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+}
+header{
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgb(212, 211, 211) 1px 1px 10px 1px;
+    color: blue;
+    height:60px;
+}
+.bold{
+    margin-left: 90px;
+        margin-right: 800px;
+            margin-top: 10px;
+                font-weight: 900;
+            font-size: 40px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition: 1s;
+}
+.bold:hover{
+        font-size: 42px;
+            cursor: pointer;
+        color: black;
+}
+.head{
+        font-size: 15px;
+            font-weight:540;
+                margin-left: 11px;
+                    vertical-align: super;
+                transition: 1s;
+            padding-bottom: 20px;
+        padding-top: 30px;
+}
+.head:hover{
+    cursor: pointer;
+    color: white;
+    background-color: blue;
+    border: 4px yellow;
+}
+.cont{
+    font-size: 17px;
+    margin-left: 14px;
+    background-color: rgb(253, 188, 3);
+    padding-right: 4px;
+    font-weight: 900;
+    padding-bottom: 19px;
+    padding-top: 28px;
+    vertical-align: super;
+    transition: 1s;
+}
+.cont:hover{
+    cursor: pointer;
+    color: rgb(253, 188, 3);
+    background-color: blue;
+}
+.nav{
+    font-size: 50px;
+    margin-left: 90px;
+    margin-bottom: 300px;
+}
+.nav:hover{
+    cursor: pointer;
+}
+.center{
+    margin-left: 90px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ecco{
+    margin-left: 90px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.time{
+    margin-left: 90px;
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.boldo{
+    color: rgb(253, 188, 3);
+    transition: 0.5s;
+}
+.boldo:hover{
+    color: black;
+    font-size: 60px;
+}
+.cool{
+    margin-left: 700px;
+    position: fixed;
+}
+.deliver{
+    font-size: medium;
+    margin-left: 90px;
+}
+.talk{
+    background-color: rgb(253, 188, 3);
+    width: 20%;
+    margin-left: 120px;
+    text-align: center;
+    height: 50px;
+    padding-top: 20px;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    transition: 1s;
+}
+.talk:hover{
+    cursor: pointer;
+    color: rgb(253, 188, 3);
+    background-color: black;
+    font-size: 32px;
+}
